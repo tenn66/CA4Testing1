@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-21T10:40:03 IST" name="All Test Suite" finished-at="2023-04-21T10:40:33 IST" duration-ms="29909">
+    <groups>
+    </groups>
+    <test started-at="2023-04-21T10:40:03 IST" name="/Users/tenzinwangmo/IdeaProjects/CA4testing" finished-at="2023-04-21T10:40:33 IST" duration-ms="29909">
+      <class name="org.example.AppTest">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:org.example.AppTest@15b204a1]" started-at="2023-04-21T10:40:03 IST" name="setupDriver" finished-at="2023-04-21T10:40:29 IST" duration-ms="25545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="dropdownMethod()[pri:0, instance:org.example.AppTest@15b204a1]" started-at="2023-04-21T10:40:29 IST" name="dropdownMethod" finished-at="2023-04-21T10:40:31 IST" duration-ms="2200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownMethod -->
+        <test-method signature="checkBoxMethod()[pri:0, instance:org.example.AppTest@15b204a1]" started-at="2023-04-21T10:40:31 IST" name="checkBoxMethod" finished-at="2023-04-21T10:40:33 IST" duration-ms="2055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxMethod -->
+        <test-method signature="RadioButtonMethod()[pri:0, instance:org.example.AppTest@15b204a1]" started-at="2023-04-21T10:40:33 IST" name="RadioButtonMethod" finished-at="2023-04-21T10:40:33 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RadioButtonMethod -->
+      </class> <!-- org.example.AppTest -->
+    </test> <!-- /Users/tenzinwangmo/IdeaProjects/CA4testing -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
